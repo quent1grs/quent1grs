@@ -49,7 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Quent1grs/Quent1grs/output/snake.svg" alt="Snake animation" />
 
 ###
 
